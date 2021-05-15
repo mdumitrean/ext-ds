@@ -31,7 +31,6 @@ config.log
 config.nice
 config.status
 config.sub
-configure
 configure.in
 install
 install-sh
